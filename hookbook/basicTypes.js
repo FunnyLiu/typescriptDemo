@@ -47,3 +47,4 @@ function infiniteLoop() {
 }
 create({ prop: 0 }); // OK
 create(null); // OK
+//# sourceMappingURL=basicTypes.js.map
