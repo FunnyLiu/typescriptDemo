@@ -4,18 +4,22 @@ Some typescript demo
 
 How decorator-based controllers map to routes
 
+# homedir
+
+给node-homedir库增加ts声明文件时测试的demo
+
 # hookbook
 
-basic types
+基本类型
 
 # injection
 
-use injection for IOC
+使用injection for IOC
 
 # lodash-decorators
 
-use lodash-decorators
+使用lodash-decorators
 
 # newner
 
-first one 
+第一个

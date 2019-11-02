@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "demo:controller2route": "cd controller2route && ts-node index.ts",
+    "demo:homedir": "cd homedir && ts-node index.ts",
     "demo:injection": "cd injection && ts-node index.ts",
     "demo:lodash-decorators-after": "cd lodash-decorators && ts-node after.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +25,7 @@
     "injection": "^1.5.2",
     "lodash": "^4.17.11",
     "lodash-decorators": "^6.0.1",
+    "node-homedir": "^1.1.1",
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
